@@ -12,7 +12,8 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlgns5510)](https://solved.ac/wlgns5510)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgns5510)](https://solved.ac/wlgns5510/)
+
 
 <hr>
 
