@@ -10,7 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlgns5510&show_icons=true&theme=flag-india)
 
-<hr>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgns5510)](https://solved.ac/wlgns5510/)
 
