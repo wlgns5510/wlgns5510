@@ -27,7 +27,6 @@
 </div>
 
 <div align=left>
-  <h3>📍 Study </h3>
   <!--
   <a href="https://github.com/wlgns5510">
     <img src="https://img.shields.io/badge/zooland-EC5990?style=for-the-badge&logo=zooland&logoColor=white"/>
